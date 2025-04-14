@@ -4,4 +4,5 @@
         </head>
         <body>
             <?php
-            echo "This is a PHP TEST!";?></body></html>
+            echo "This is a PHP TEST!";
+            echo "A new PHP test!"?></body></html>
